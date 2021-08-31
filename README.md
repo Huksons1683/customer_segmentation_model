@@ -1,1 +1,1 @@
-# customer_segmentation_model
+# In this project, I have develop a Machine Learning Model on Customer Segmentation and Acquisition, which is able to categories different types of customers based on their data and behaviour which will help the the product companies to filter their potential targeted customer for IBM SkillBuild Innovation Camp. This Model of Machine learning can process customer data and discover recurring patterns across various features and provides various insights, which can be taken into consdiration to acquire new customers.
